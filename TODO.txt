@@ -1,0 +1,1 @@
+eleminate web address by regular expression. They need to be fit into www.name.com format.
